@@ -1,9 +1,9 @@
 {
   "type": "module",
-  "name": "number-formatter",
+  "name": "number-locale-formatter",
   "version": "1.0.0",
   "description": "Converts numbers to Korean won format.",
-  "main": "src/numberFormatter.js",
+  "main": "src/numberLocaleFormatter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/main.js"
@@ -23,6 +23,10 @@
     "email": "ctw1048@hanmail.net"
   },
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/secjong/number-locale-formatter"
+  },
   "devDependencies": {
     "mathjs": "^9.3.2"
   }
