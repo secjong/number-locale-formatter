@@ -1,0 +1,29 @@
+{
+  "type": "module",
+  "name": "number-formatter",
+  "version": "1.0.0",
+  "description": "Converts numbers to Korean won format.",
+  "main": "src/numberFormatter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/main.js"
+  },
+  "keywords": [
+    "number",
+    "format",
+    "formatter",
+    "korean",
+    "won"
+  ],
+  "bugs": {
+    "email": "ctw1048@hanmail.net"
+  },
+  "author": {
+    "name": "secjong",
+    "email": "ctw1048@hanmail.net"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "mathjs": "^9.3.2"
+  }
+}
