@@ -2,6 +2,7 @@ import numberFormatter from './numberFormatter.js'
 
 try {
     // const number = process.argv[2]
+    
     for (let i = 0; i < 72; i++) {
         let zeros = "";
         for (let j = 0; j < i; j++) {
